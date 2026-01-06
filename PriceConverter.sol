@@ -24,7 +24,7 @@ library PriceConverter{
         return AggregatorV3Interface(0x5fb1616F78dA7aFC9FF79e0371741a747D2a7F22).version();
     }
     function getNew() view returns(uint){
-        return "testing"
+        return "testing";
         
     }
 
